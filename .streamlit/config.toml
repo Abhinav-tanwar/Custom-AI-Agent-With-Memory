@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#D6AF69"
+backgroundColor = "#181713"
+secondaryBackgroundColor = "#222019"
+textColor = "#E8DFC9"
+font = "sans serif"
+[server]
+address = "127.0.0.1"
+port = 8030
+maxUploadSize = 20
